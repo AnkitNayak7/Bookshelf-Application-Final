@@ -1,0 +1,74 @@
+{
+  "books": [
+    {
+      "name": "To Kill a Mockingbird",
+      "author": "Author 1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
+      "progress": 50,
+      "status": "In Progress"
+    },
+    {
+      "name": "The Great Gatsby",
+      "author": "Author 1",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKicVTPoUhITgjxfUQB_fX73sd7UcuQex8v15iqbl_uSibdlo9",
+      "progress": 50,
+      "status": "In Progress"
+    },
+    {
+      "name": "One Hundred Years of Solitude",
+      "author": "Author 1",
+      "image": "https://s26162.pcdn.co/wp-content/uploads/2018/02/100_Years_First_Ed_Hi_Res-768x1153.jpg",
+      "progress": 50,
+      "status": "In Progress"
+    },
+    {
+      "name": "The Catcher in the Rye",
+      "author": "Author 1",
+      "image": "https://cdn.shopify.com/s/files/1/0605/4293/products/BOOK126-A_1200x1200.progressive.jpg?v=1653408808",
+      "progress": 50,
+      "status": "In Progress"
+    },
+    {
+      "name": "Pride and Prejudice",
+      "author": "Author 1",
+      "image": "https://m.media-amazon.com/images/I/71Q1tPupKjL._AC_UF1000,1000_QL80_.jpg",
+      "progress": 50,
+      "status": "In Progress"
+    },
+    {
+      "name": "Beloved",
+      "author": "Author 1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd990BT1PKlfI1URUGF2Wv0rcnVevaxokkZV1UZ07TPhp7A6O6vb6fNf11PtTreJ1egjE&usqp=CAU",
+      "progress": 50,
+      "status": "In Progress"
+    },
+    {
+      "name": "Wuthering Heights",
+      "author": "Author 1",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzRkZTg1ZjAtMzFhMy00NTAyLWFmMzgtODI3MjdhOTJmYWE2XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg",
+      "progress": 50,
+      "status": "Read"
+    },
+    {
+      "name": "A Brief History of Time",
+      "author": "Author 2",
+      "image": "https://productimages.worldofbooks.com/0593060504.jpg",
+      "progress": 100,
+      "status": "Read"
+    },
+    {
+      "name": "A Tale of Two Cities",
+      "author": "Author 3",
+      "image": "https://kbimages1-a.akamaihd.net/b6cc787d-79b3-4322-bfae-7bbf6ed59a77/1200/1200/False/a-tale-of-two-cities-431.jpg",
+      "progress": 25,
+      "status": "Want to Read"
+    },
+    {
+      "name": "A Wrinkle in Time",
+      "author": "Author 3",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/WrinkleInTimePBA1.jpg",
+      "progress": 25,
+      "status": "Want to Read"
+    }
+  ]
+}
